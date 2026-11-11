@@ -201,4 +201,4 @@ This repository serves as the official landing page for Add2Run. The software is
 **Get the most recent version of Add2Run today!**
 
 ---
-**Last updated:** 2026-11-11 01:31:34 UTC
+**Last updated:** 2026-11-11 08:30:02 UTC
